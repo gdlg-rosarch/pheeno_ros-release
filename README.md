@@ -1,3 +1,26 @@
+## pheeno_ros (indigo) - 0.1.1-1
+
+The packages in the `pheeno_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pheeno_ros` on `Tue, 19 Sep 2017 18:07:11 -0000`
+
+The `pheeno_ros` package was released.
+
+Version of package(s) in repository `pheeno_ros`:
+
+- upstream repository: https://github.com/ACSLaboratory/pheeno_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.1-0`
+- new version: `0.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.6`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## pheeno_ros (indigo) - 0.1.1-0
 
 The packages in the `pheeno_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pheeno_ros` on `Tue, 19 Sep 2017 18:01:29 -0000`
