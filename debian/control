@@ -1,0 +1,12 @@
+Source: ros-indigo-pheeno-ros
+Section: misc
+Priority: extra
+Maintainer: zmk5 <zkakish@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-std-msgs
+Homepage: https://acslaboratory.github.io
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pheeno-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-geometry-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-std-msgs
+Description: The pheeno_ros package contains necessary files for run and control an individual Pheeno unit with ROS.
